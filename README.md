@@ -242,3 +242,59 @@ Window functions for ranking and segmentation
 Profitability modeling logic
 
 Business-focused data storytelling
+
+❓ Business Questions
+
+Which categories generate the highest revenue?
+
+What percentage of total revenue does each category contribute?
+
+Which products carry the highest return risk?
+
+Which customer segments drive sales?
+
+Is revenue dependent on discounting?
+
+How do shipping methods impact profitability?
+
+🛠 Tools Used
+
+MySQL 8.0
+
+CTEs
+
+Window Functions (RANK, ROW_NUMBER, SUM OVER)
+
+Aggregation & Profit Modeling
+
+📈 Key Insights
+
+📚 Books generated ₹353M+ revenue and ₹302M+ net profit
+
+🎯 18–24 age group is the primary purchasing segment
+
+⚠ Graphic Novels show high return rate (10.49%) despite ₹44M+ revenue
+
+🚚 Express shipping influences ₹587M+ revenue
+
+💸 Revenue not heavily dependent on aggressive discounting (Avg 12.53%)
+
+💡 Strategic Recommendations
+
+Expand inventory in high-margin categories
+
+Reduce return leakage in Graphic Novels
+
+Optimize Express shipping logistics
+
+Target student demographic for growth
+
+Test lower discount bands to protect margins
+
+ecommerce-sql-sales-analysis/
+│
+├── README.md
+├── sql/
+│   └── analysis.sql
+├── insights/
+│   └── executive-summary.md
